@@ -1,0 +1,166 @@
+.parent {
+    padding: 30px;
+    display: grid;
+    grid-template-columns: 1fr 0.1fr 1fr 0.1fr 1fr 0.1fr 1fr 0.1fr 1fr;
+}
+
+.item1 {
+    align-self: center;
+    height: 200px;
+    position: relative;
+    width: 100%;
+    /* أو أي عرض آخر تحدده للـ div */
+
+}
+
+.item2 {
+    display: grid;
+    height: 350px;
+    width: 100%;
+    align-self: center;
+    grid-template-rows: 49% 9% 38% 4%;
+}
+
+.item2-1 {
+    width: 100%;
+
+
+}
+
+.item2-1 img {
+    width: 100%;
+    height: 100%;
+
+    border-radius: 20px;
+
+}
+
+.item2-2 {
+    width: 100%;
+}
+
+.item2-2 img {
+    width: 100%;
+    height: 100%;
+
+    border-radius: 20px;
+}
+
+.item3 {
+    width: 100%;
+    height: 400px;
+}
+
+.item3 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+
+}
+.hello{
+    opacity: 2;
+    transition: opacity 2s ease-in-out; /* تحديد مدة التأثير ونمط التسارع */
+}
+.item4 {
+    display: grid;
+    height: 350px;
+    align-self: center;
+    grid-template-rows: 40% 5% 53% 2%;
+}
+
+.item4-1 {
+}
+
+
+.item4-1 img{
+    width: 100%;
+    height: 100%;
+
+    border-radius: 20px;
+}
+
+
+.item4-2 {
+}
+
+
+.hidden{
+    opacity: 0;
+    filter: blur(5px);
+    transform: translateX(-100%);
+    transition: all 1.5s;
+}
+.show{
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+}
+
+
+
+
+
+.item4-2 img{
+    width: 100%;
+    height: 100%;
+
+    border-radius: 20px;
+}
+
+.item5 {
+    align-self: center;
+    height: 200px;
+    width: 100%;
+}
+.item5 img{
+    width: 100%;
+    height: 100%;
+
+    border-radius: 20px;
+}
+
+.item1 img {
+    overflow-inline: hidden;
+    align-self: center;
+    justify-content: center;
+    width: 100%;
+    border-radius: 20px;
+    height: 100%;
+    /* جعل عرض الصورة يكون نفس عرض الـ div */
+}
+
+@media (max-width:850px){
+
+.parent{
+display: grid;
+    grid-template-columns: 1fr 0.1fr 1fr 0.001fr ;
+
+}
+.item3{
+    margin-bottom: 20px;
+}
+.item2{
+    grid-template-rows: 200px 40px 200px 50px;
+    margin-bottom: 80px;
+
+}
+.item4{
+    grid-template-rows: 35% 15% 48% 2%;
+
+}
+.item5{
+    display: flex;
+    width: 100%;
+
+}
+}
+
+
+
+
+
+
+
+
+
+

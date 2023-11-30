@@ -1,0 +1,150 @@
+{
+  "commites": [
+    {
+      "id": "1",
+      "src": "./img/Press logo.png",
+      "title": "Press Committee",
+      "description": "This field is the foundation of the club, concerned with design, editing, activation, presentation, television and radio hosting, as well as photographic shooting"
+    },    {
+      "id": "2",
+      "src": "./img/Digital Media logo.png",
+      "title": "Digital Media Committee",
+      "description": "It is a committee concerned with all club pages, Instagram, YouTube, email and website."
+    },
+    {
+      "id": "3",
+      "src": "./img/Public Relations logo.png",
+      "title": "Public Relations Committee",
+      "description": "It is a committee charged with supervising all internal and external relations of the club from institutions, university president, clubs and organizations, heads of institutes and departments."
+    }
+   , {
+    "id": "4",
+    "src": "./img/Training and Formation logo.png",
+    "title": "Training and Formation Committee",
+    "description": "This field is the foundation of the club, concerned with design, editing, activation, presentation, television and radio hosting, as well as photographic shooting"
+  },
+  {
+    "id": "5",
+    "src": "./img/Information Documentation logo.png",
+    "title": "Information Documentation Committee",
+    "description": "It is a committee that documents all the activities of the club from reports and information of members, writing reports after each meeting and each activity"
+  }
+  ], 
+  "Allmembers": [
+
+    {
+      "id": "1",
+      "src": "./img/Abdelghani belhachemi2.jpg",
+      "name": "Abdelghani belhachemi ",
+      "role": "president",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "rank":"leaders",
+      "Division":""
+
+    },
+    {
+      "id": "2",
+      "src": "./img/moulai fatma zohra.jpg",
+      "name": "moulai fatma zohra",
+      "role": "Vice President",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "rank":"leaders",
+      "Division":""
+    },
+    {
+      "id": "3",
+      "src": "./img/Aymen lahmar.jpg",
+      "name": "Aymen lahmar",
+      "role": "Chairman of the Press Committee",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "rank":"leaders",
+      "Division":""
+    },
+    {
+      "id": "4",
+      "src": "./img/Laradji Aymen Abdellah.jpg",
+      "name": "Laradji Aymen Abdellah",
+      "role": "Chairman of the Relations Committee",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "rank":"leaders"
+      ,
+      "Division":""
+    },
+    {
+      "id": "5",
+      "src": "./img/maoui 3abla2.jpg",
+      "name": "maoui 3abla ",
+      "role": "Chairman of the Training and Formation Committee ",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "rank":"leaders",
+      "Division":""
+    }
+    ,    {
+      "id": "6",
+      "src": "./img/bechra sedrini2.jpg",
+      "name": "bechra sedrini",
+      "role": "Administration and Management Officer ",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "rank":"leaders",
+      "Division":""
+    }
+    ,    {
+      "id": "7",
+      "src": "./img/Anfal neggaz.jpg",
+      "name": "Anfal neggaz",
+      "role": "Chairman of the Digital Media Committee",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "rank":"leaders",
+      "Division":""
+    }    ,    {
+      "id": "8",
+      "src": "./img/Zouidi roufaida.jpg",
+      "name": "Zouidi roufaida",
+      "role": "Secretary General",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "rank":"leaders",
+      "Division":""
+    }
+    ,
+    {
+      "id": "15",
+      "src": "./img/tag-1/maoui 3abla.png",
+      "name": "abdelghani ",
+      "role": "president",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "rank":"members",
+      "commit":"commit4"
+    }
+  ],
+  "Events": [
+
+    {
+      "id": "1",
+      "src": "./img/lonely-tree-reflection-3.jpg",
+      "name": "Writing Workshop",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+
+    },    {
+      "id": "2",
+      "src": "./img/lonely-tree-reflection-3.jpg",
+      "name": "Photography Workshop",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+
+    },    {
+      "id": "3",
+      "src": "./img/lonely-tree-reflection-3.jpg",
+      "name": "Design and editing workshop",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+
+    },     {
+      "id": "4",
+      "src": "./img/lonely-tree-reflection-3.jpg",
+      "name": "Presentation Workshop",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+
+    }
+  
+  
+  ]
+  
+ }
